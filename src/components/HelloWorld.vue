@@ -19,8 +19,8 @@
           <a href="https://www.lewagon.com/fr">Le Wagon</a>
          bootcamp where I followed a 
           6 months intense session and Vuejs when I was at MWM (Music World Media) for two months in internship. For Ruby on Rails projects, the database
-          is direclty linked as a postgre sql one, and with vuejs I connected it to firebase.
-
+          is direclty linked as a postgre sql one, and with vuejs I connected it to firebase. The websites should be open on a computer
+          for a better scalability.
         </p> 
       <div class="cards-projects mt-5">
         <card-myself hasLink="true" image_url="https://res.cloudinary.com/dgpj2uzwa/image/upload/v1643811312/letsplay_abi7l7.png" titre="Social network for musicians" 
