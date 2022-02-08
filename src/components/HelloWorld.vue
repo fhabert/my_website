@@ -95,14 +95,14 @@
       </div>
       <hr class="mt-5">
       <h3>Arduino project with the MKR 1010 wifi</h3>
-      <p class="text-size mt-3">Using the MKR 1010 wifi, sensors and actuators, here are two projects I made with them following a connected systems course on the
+      <p class="text-size mt-3">Using the MKR 1010 wifi, sensors and actuators, here's one project I made with them following a connected systems course on the
         Internet of Things (IoT). It was done with the MKR carrier, the shield and the MKR iot carrier along with the PIR sensor. It's 
         a detector of movement that requires a password to be deactivated, and once the door is openned, the change in the gyroscope 
         position indicates it to you and the PIR sensor senses the movement of the individual. The important variables such as the 
           booleans password, door state and pir state are directly connected to the iot cloud as you can see on the image on the 
           right hand side.
       </p>
-      <h4>Project I: Alarm system with gyroscope and PIR sensor detection</h4>
+      <h4>Alarm system with gyroscope and PIR sensor detection</h4>
       <div class="d-flex align-items-center justify-content-center mt-3">
         <div class="iot-images">
           <template>
@@ -149,8 +149,8 @@
       </div>
       <div>
         <h3>Abstract art with coding</h3>
-        <p class="text-size mt-3">Then I tried to explore the potentiality of coding visual abstract art and this was done with the Three.js javascript library.
-           Here we'll just render a picture of it and not the actual animation. It allows a rendom figure to be created with a variety of
+        <p class="text-size mt-3">I also tried to explore the potentiality of coding visual abstract art and this was done with the Three.js javascript library.
+           Here we'll just render a picture of it and not the actual animation. It allows a random figure to be created with a variety of
            color which makes it more interesting. </p>
         <div class="d-flex align-items-center justify-content-center">
           <div class="mt-5 three-pic">
