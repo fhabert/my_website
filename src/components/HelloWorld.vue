@@ -144,7 +144,7 @@
             </v-container>
           </template>
           <div>
-              <img src="https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644335650/iot_kzduib.png" width="600" height="350"/> 
+              <v-img src="https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644335650/iot_kzduib.png" max-width="400" max-height="435"></v-img> 
           </div>
         </div>
       </div>
