@@ -59,7 +59,7 @@
         <template>
           <v-container>
             <v-row>
-              <v-col col="12">
+              <v-col col="9">
                 <v-card
                   elevation="24" 
                   max-width="800"
@@ -109,7 +109,7 @@
           <template>
             <v-container>
               <v-row>
-                <v-col col="12">
+                <v-col col="9">
                   <v-card
                     elevation="24" 
                     max-width="600" 
@@ -144,7 +144,7 @@
             </v-container>
           </template>
           <div>
-              <v-img src="https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644335650/iot_kzduib.png" max-width="400" max-height="435"></v-img> 
+              <v-img src="https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644335650/iot_kzduib.png" max-width="500" max-height="435"></v-img> 
           </div>
         </div>
       </div>
@@ -191,7 +191,7 @@ export default {
           on the touch Pad (password of 5 digits)." },
         { src: "https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644081264/IMG-6875_mf06dj.jpg" , description: "If the door has been openned anyway, the \
         gyroscope of the IoT carrier detects it and signal it on the IoT cloud of the owner." },
-        { src: "https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644081261/IMG-6877_ckwwog.jpg" , description: "If the password ddoesn't match the \
+        { src: "https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644081261/IMG-6877_ckwwog.jpg" , description: "If the password doesn't match the \
         secret code, then a red light shows up and the user can start again." },
         { src: "https://res.cloudinary.com/dgpj2uzwa/image/upload/v1644081257/IMG-6876_cfqnjf.jpg" , description: "If the gyroscope detects movement from \
         the door, then the PIR sensor would tell if someone entered and make a buzz sound turn on with a red light !" },
