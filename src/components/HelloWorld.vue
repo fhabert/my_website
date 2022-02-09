@@ -51,7 +51,7 @@
       <h3>University projects</h3>
         <p class="text-size mt-3">This project was done in Quantitative Analysis and Data Visualisation with Python. The research question was: how is
           deforestation direclty impacting British Columbia caribou's population ? 
-          <a href="https://colab.research.google.com/drive/1PNR2Uv9uNmHF86pqBH7RR9VugYCNxRnf#scrollTo=KdmInetdQpmq">Here</a> you'll find the actual colab notebook
+          <a href="https://colab.research.google.com/drive/1PNR2Uv9uNmHF86pqBH7RR9VugYCNxRnf?usp=sharing">Here</a> you'll find the actual colab notebook
           with the step by step progression of the analysis I've made for this research question, which was an open unguided project. 
         </p>
 
